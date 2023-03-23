@@ -1,0 +1,13 @@
+{
+  "id" : "https://alexkither.github.io/HullPlaybills/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in alexkither/HullPlaybills project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://alexkither.github.io/HullPlaybills/manifests/hullpbmanifest.json",
+    "label" : "Hull Playbills"
+  } ]
+}
