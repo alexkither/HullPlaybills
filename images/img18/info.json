@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 52,
+    "height" : 85
+  }, {
+    "width" : 103,
+    "height" : 169
+  }, {
+    "width" : 206,
+    "height" : 337
+  }, {
+    "width" : 411,
+    "height" : 673
+  }, {
+    "width" : 821,
+    "height" : 1346
+  }, {
+    "width" : 1641,
+    "height" : 2692
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1641,
+  "@id" : "https://alexkither.github.io/HullPlaybills/images/img18",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2692
+}
