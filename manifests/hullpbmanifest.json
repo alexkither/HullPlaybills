@@ -1,0 +1,231 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://alexkither.github.io/HullPlaybills/manifests/hullpbmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Hull Playbills",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[A collection of playbills from miscellaneous Hull theatres 1820-1828]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[]",
+  "sequences" : [ {
+    "@id" : "http://17e1773f-2494-4d17-b1b1-9dd5f9d2dee5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://b4001c1e-3d46-424e-b1ac-0a8381b6046f",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2692,
+      "width" : 1641,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4c6beded-2eb1-4b63-9952-366197954282",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img18/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img18",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2692,
+          "width" : 1641
+        },
+        "on" : "http://b4001c1e-3d46-424e-b1ac-0a8381b6046f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d94e752a-af6b-4ff7-adfe-5b23f9c3bd32",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2692,
+      "width" : 1665,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ce273ce6-7d74-4dc7-ae90-9970ed1c8170",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img24/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img24",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2692,
+          "width" : 1665
+        },
+        "on" : "http://d94e752a-af6b-4ff7-adfe-5b23f9c3bd32"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://09a9795a-4d8c-4778-9325-aef4e5eec996",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2716,
+      "width" : 1687,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e1256690-d6d9-4725-b11b-f403372fb962",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img29/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img29",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2716,
+          "width" : 1687
+        },
+        "on" : "http://09a9795a-4d8c-4778-9325-aef4e5eec996"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://df167350-8e51-4e12-8d40-fc8aef0f89b0",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2716,
+      "width" : 1687,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1096075d-0f1d-4388-bd2b-9017c6651d0d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img35/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img35",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2716,
+          "width" : 1687
+        },
+        "on" : "http://df167350-8e51-4e12-8d40-fc8aef0f89b0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://63f31eb0-f5dd-479d-991c-356b73661245",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2751,
+      "width" : 1605,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://daa200ee-f56e-45f0-b167-15a1e64dfd9f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img37/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img37",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2751,
+          "width" : 1605
+        },
+        "on" : "http://63f31eb0-f5dd-479d-991c-356b73661245"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e29ba491-8c8f-428c-a585-8c9fbd57bfb1",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2751,
+      "width" : 1665,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://41062af1-c769-4662-90a7-6042774adfbf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img40/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img40",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2751,
+          "width" : 1665
+        },
+        "on" : "http://e29ba491-8c8f-428c-a585-8c9fbd57bfb1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3bb1ab2f-db62-467f-b7d8-f177531eac24",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2692,
+      "width" : 1665,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ad7b70cf-3fb3-441d-b348-95f076633819",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img43/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img43",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2692,
+          "width" : 1665
+        },
+        "on" : "http://3bb1ab2f-db62-467f-b7d8-f177531eac24"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d96afdfa-8122-4407-ac4a-8213540eea48",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2704,
+      "width" : 1641,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://addee0bd-ac25-4a2a-a8ff-28389d244703",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://alexkither.github.io/HullPlaybills/images/img21/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://alexkither.github.io/HullPlaybills/images/img21",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2704,
+          "width" : 1641
+        },
+        "on" : "http://d96afdfa-8122-4407-ac4a-8213540eea48"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
